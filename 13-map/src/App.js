@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import Button from './components/Button'
 import Counter from './components/Counter'
-
+                                                                                                                                                                                                                                                                                                                                                  
 const texts = ['Click me', 'Click me please', 'Hit me', 'Press me']
 
 function App() {
