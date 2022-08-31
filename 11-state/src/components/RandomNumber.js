@@ -7,7 +7,7 @@ function RandomNumber(props) {
   const changeRandomNum = () => {
     setRandomNum(generateRandomNum(maxNum))
   }
- 
+
   return (
     <div>
       <h1>{randomNum}</h1>
